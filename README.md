@@ -6,16 +6,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/TheLegion007/InterviewPrep/tree/master/0049-group-anagrams) |
 | [1217-relative-sort-array](https://github.com/TheLegion007/InterviewPrep/tree/master/1217-relative-sort-array) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/TheLegion007/InterviewPrep/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/TheLegion007/InterviewPrep/tree/master/0049-group-anagrams) |
 | [1217-relative-sort-array](https://github.com/TheLegion007/InterviewPrep/tree/master/1217-relative-sort-array) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/TheLegion007/InterviewPrep/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/TheLegion007/InterviewPrep/tree/master/0049-group-anagrams) |
 | [1217-relative-sort-array](https://github.com/TheLegion007/InterviewPrep/tree/master/1217-relative-sort-array) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/TheLegion007/InterviewPrep/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Counting Sort
 |  |
 | ------- |
