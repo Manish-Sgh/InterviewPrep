@@ -53,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/TheLegion007/InterviewPrep/tree/master/0100-same-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2562-count-ways-to-build-good-strings](https://github.com/TheLegion007/InterviewPrep/tree/master/2562-count-ways-to-build-good-strings) |
 <!---LeetCode Topics End-->
