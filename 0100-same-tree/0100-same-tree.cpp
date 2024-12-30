@@ -44,9 +44,9 @@ bool isSameTree(TreeNode* p, TreeNode* q) {
 	value_preorder(pre_q, q);
 
 
-	// if (vec_p.size() != vec_q.size()) {
-	// 	return false;
-	// }
+	if (vec_p.size() != vec_q.size()) {
+		return false;
+	}
 
 	if (vec_p == vec_q && pre_p == pre_q) {
 		return true;
