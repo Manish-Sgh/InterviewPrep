@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/TheLegion007/InterviewPrep/tree/master/0049-group-anagrams) |
 | [0807-custom-sort-string](https://github.com/TheLegion007/InterviewPrep/tree/master/0807-custom-sort-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/TheLegion007/InterviewPrep/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2562-count-ways-to-build-good-strings](https://github.com/TheLegion007/InterviewPrep/tree/master/2562-count-ways-to-build-good-strings) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/TheLegion007/InterviewPrep/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
