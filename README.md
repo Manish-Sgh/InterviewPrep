@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/TheLegion007/InterviewPrep/tree/master/0807-custom-sort-string) |
 | [1217-relative-sort-array](https://github.com/TheLegion007/InterviewPrep/tree/master/1217-relative-sort-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/TheLegion007/InterviewPrep/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/TheLegion007/InterviewPrep/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Sorting
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/TheLegion007/InterviewPrep/tree/master/0049-group-anagrams) |
 | [0807-custom-sort-string](https://github.com/TheLegion007/InterviewPrep/tree/master/0807-custom-sort-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/TheLegion007/InterviewPrep/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/TheLegion007/InterviewPrep/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/TheLegion007/InterviewPrep/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Stack
 |  |
@@ -85,6 +87,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/TheLegion007/InterviewPrep/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/TheLegion007/InterviewPrep/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/TheLegion007/InterviewPrep/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/TheLegion007/InterviewPrep/tree/master/2691-count-vowel-strings-in-ranges) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/TheLegion007/InterviewPrep/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
