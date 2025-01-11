@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/TheLegion007/InterviewPrep/tree/master/0049-group-anagrams) |
 | [0807-custom-sort-string](https://github.com/TheLegion007/InterviewPrep/tree/master/0807-custom-sort-string) |
 | [1217-relative-sort-array](https://github.com/TheLegion007/InterviewPrep/tree/master/1217-relative-sort-array) |
+| [1502-construct-k-palindrome-strings](https://github.com/TheLegion007/InterviewPrep/tree/master/1502-construct-k-palindrome-strings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/TheLegion007/InterviewPrep/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/TheLegion007/InterviewPrep/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Sorting
@@ -30,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/TheLegion007/InterviewPrep/tree/master/1217-relative-sort-array) |
+| [1502-construct-k-palindrome-strings](https://github.com/TheLegion007/InterviewPrep/tree/master/1502-construct-k-palindrome-strings) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/TheLegion007/InterviewPrep/tree/master/0049-group-anagrams) |
 | [0807-custom-sort-string](https://github.com/TheLegion007/InterviewPrep/tree/master/0807-custom-sort-string) |
+| [1502-construct-k-palindrome-strings](https://github.com/TheLegion007/InterviewPrep/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/TheLegion007/InterviewPrep/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/TheLegion007/InterviewPrep/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TheLegion007/InterviewPrep/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -103,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/TheLegion007/InterviewPrep/tree/master/1524-string-matching-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/TheLegion007/InterviewPrep/tree/master/1502-construct-k-palindrome-strings) |
 <!---LeetCode Topics End-->
