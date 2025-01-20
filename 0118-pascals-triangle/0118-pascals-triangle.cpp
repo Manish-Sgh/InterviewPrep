@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // 0(n^2)
     vector<vector<int>> generate(int numRows) {
         vector<vector<int>> ans;
         if(numRows == 0){
