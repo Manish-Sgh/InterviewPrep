@@ -1,5 +1,8 @@
 class Solution {
 public:
+
+    //TC -  0(N)
+    // SC - 0(N) 
     bool isValid(string s) 
     {
       int n = s.length();
