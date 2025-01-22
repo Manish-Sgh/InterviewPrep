@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/TheLegion007/InterviewPrep/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/TheLegion007/InterviewPrep/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/TheLegion007/InterviewPrep/tree/master/0242-valid-anagram) |
 | [0807-custom-sort-string](https://github.com/TheLegion007/InterviewPrep/tree/master/0807-custom-sort-string) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/TheLegion007/InterviewPrep/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/TheLegion007/InterviewPrep/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
