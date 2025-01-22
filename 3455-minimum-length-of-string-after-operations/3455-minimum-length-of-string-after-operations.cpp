@@ -1,23 +1,37 @@
 class Solution {
 public:
-    int minimumLength(string s) {
-        unordered_map<char, int> ump_freq;
-        int min_length = 0;
-        for (auto it : s) {
-            ump_freq[it]++;
-        }
-        for (int i = 0; i < ump_freq.size(); i++) {
-            if (ump_freq[i] > 2) {
-                if (ump_freq[i] % 2 == 0) {
-                    min_length += 2;
-                }
-                if (ump_freq[i] % 2 == 1) {
-                    min_length += 1;
-                }
-            } else {
-                min_length += ump_freq[i];
+    // TC - O(n) + 0(26)
+    // Sc - 0(26)
+    void toLowerCase(string& s) {
+        for (char& c : s) {
+            if (c >= 'A' && c <= 'Z') {
+                c += 32;
             }
         }
-        return min_length;
+    }
+
+    int minimumLength(string s) {
+
+        int n = s.length();
+
+        // toLowerCase(s);
+
+        int min_val = 0;
+        int freq[26] = {0};
+        for (int i = 0; i < n; i++) {
+            freq[s[i] - 'a']++;
+        }
+        for (int i = 0; i < 26; i++) {
+            if (freq[i] > 2) {
+                if (freq[i] % 2 == 0) {
+                    min_val += 2;
+                } else {
+                    min_val += 1;
+                }
+            } else {
+                min_val += freq[i];
+            }
+        }
+        return min_val;
     }
 };
