@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/TheLegion007/InterviewPrep/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/TheLegion007/InterviewPrep/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/TheLegion007/InterviewPrep/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/TheLegion007/InterviewPrep/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/TheLegion007/InterviewPrep/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/TheLegion007/InterviewPrep/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/TheLegion007/InterviewPrep/tree/master/0118-pascals-triangle) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/TheLegion007/InterviewPrep/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/TheLegion007/InterviewPrep/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheLegion007/InterviewPrep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2562-count-ways-to-build-good-strings](https://github.com/TheLegion007/InterviewPrep/tree/master/2562-count-ways-to-build-good-strings) |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/TheLegion007/InterviewPrep/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/TheLegion007/InterviewPrep/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
