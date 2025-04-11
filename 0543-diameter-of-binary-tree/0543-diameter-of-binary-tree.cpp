@@ -9,6 +9,9 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+// Time complexity:O(N)  ---- travels each node
+// Space complexity:O(h) ---- Recursive stack space
 class Solution {
 public:
     int height(TreeNode* root, int &diameter) {
