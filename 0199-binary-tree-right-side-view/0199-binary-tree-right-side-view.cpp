@@ -22,7 +22,7 @@ public:
         q.push(root);
 
         while (!q.empty()) {
-            vector<int> vis;
+            vector<int> vis;   // store values of each level //
             int size = q.size();
             level++;
             for (int i = 0; i < size; i++) {
