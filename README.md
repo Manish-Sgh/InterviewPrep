@@ -184,4 +184,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/TheLegion007/InterviewPrep/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/TheLegion007/InterviewPrep/tree/master/1258-article-views-i) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/TheLegion007/InterviewPrep/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+## Math
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/TheLegion007/InterviewPrep/tree/master/2998-count-symmetric-integers) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/TheLegion007/InterviewPrep/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
