@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/TheLegion007/InterviewPrep/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/TheLegion007/InterviewPrep/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/TheLegion007/InterviewPrep/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/TheLegion007/InterviewPrep/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/TheLegion007/InterviewPrep/tree/master/0344-reverse-string) |
 | [0807-custom-sort-string](https://github.com/TheLegion007/InterviewPrep/tree/master/0807-custom-sort-string) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/TheLegion007/InterviewPrep/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/TheLegion007/InterviewPrep/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/TheLegion007/InterviewPrep/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/TheLegion007/InterviewPrep/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/TheLegion007/InterviewPrep/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/TheLegion007/InterviewPrep/tree/master/0344-reverse-string) |
 ## Brainteaser
