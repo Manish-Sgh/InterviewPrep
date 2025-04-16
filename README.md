@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheLegion007/InterviewPrep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/TheLegion007/InterviewPrep/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TheLegion007/InterviewPrep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/TheLegion007/InterviewPrep/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/TheLegion007/InterviewPrep/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/TheLegion007/InterviewPrep/tree/master/0287-find-the-duplicate-number) |
 | [1217-relative-sort-array](https://github.com/TheLegion007/InterviewPrep/tree/master/1217-relative-sort-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/TheLegion007/InterviewPrep/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/TheLegion007/InterviewPrep/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/TheLegion007/InterviewPrep/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/TheLegion007/InterviewPrep/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/TheLegion007/InterviewPrep/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/TheLegion007/InterviewPrep/tree/master/0344-reverse-string) |
 ## Brainteaser
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/TheLegion007/InterviewPrep/tree/master/0189-rotate-array) |
 | [2998-count-symmetric-integers](https://github.com/TheLegion007/InterviewPrep/tree/master/2998-count-symmetric-integers) |
 ## Enumeration
 |  |
