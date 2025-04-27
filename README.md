@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/TheLegion007/InterviewPrep/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/TheLegion007/InterviewPrep/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/TheLegion007/InterviewPrep/tree/master/0287-find-the-duplicate-number) |
+| [0954-maximum-sum-circular-subarray](https://github.com/TheLegion007/InterviewPrep/tree/master/0954-maximum-sum-circular-subarray) |
 | [1217-relative-sort-array](https://github.com/TheLegion007/InterviewPrep/tree/master/1217-relative-sort-array) |
 | [1524-string-matching-in-an-array](https://github.com/TheLegion007/InterviewPrep/tree/master/1524-string-matching-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/TheLegion007/InterviewPrep/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/TheLegion007/InterviewPrep/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheLegion007/InterviewPrep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/TheLegion007/InterviewPrep/tree/master/0152-maximum-product-subarray) |
+| [0954-maximum-sum-circular-subarray](https://github.com/TheLegion007/InterviewPrep/tree/master/0954-maximum-sum-circular-subarray) |
 | [2562-count-ways-to-build-good-strings](https://github.com/TheLegion007/InterviewPrep/tree/master/2562-count-ways-to-build-good-strings) |
 ## Prefix Sum
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/TheLegion007/InterviewPrep/tree/master/0053-maximum-subarray) |
+| [0954-maximum-sum-circular-subarray](https://github.com/TheLegion007/InterviewPrep/tree/master/0954-maximum-sum-circular-subarray) |
 ## Database
 |  |
 | ------- |
@@ -212,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheLegion007/InterviewPrep/tree/master/0003-longest-substring-without-repeating-characters) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/TheLegion007/InterviewPrep/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/TheLegion007/InterviewPrep/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
