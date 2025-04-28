@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheLegion007/InterviewPrep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/TheLegion007/InterviewPrep/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TheLegion007/InterviewPrep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/TheLegion007/InterviewPrep/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/TheLegion007/InterviewPrep/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/TheLegion007/InterviewPrep/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/TheLegion007/InterviewPrep/tree/master/0287-find-the-duplicate-number) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheLegion007/InterviewPrep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/TheLegion007/InterviewPrep/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/TheLegion007/InterviewPrep/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/TheLegion007/InterviewPrep/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/TheLegion007/InterviewPrep/tree/master/0242-valid-anagram) |
 | [0807-custom-sort-string](https://github.com/TheLegion007/InterviewPrep/tree/master/0807-custom-sort-string) |
 | [1217-relative-sort-array](https://github.com/TheLegion007/InterviewPrep/tree/master/1217-relative-sort-array) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/TheLegion007/InterviewPrep/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/TheLegion007/InterviewPrep/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TheLegion007/InterviewPrep/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/TheLegion007/InterviewPrep/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/TheLegion007/InterviewPrep/tree/master/0242-valid-anagram) |
 | [0807-custom-sort-string](https://github.com/TheLegion007/InterviewPrep/tree/master/0807-custom-sort-string) |
 | [1217-relative-sort-array](https://github.com/TheLegion007/InterviewPrep/tree/master/1217-relative-sort-array) |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/TheLegion007/InterviewPrep/tree/master/0169-majority-element) |
 | [1217-relative-sort-array](https://github.com/TheLegion007/InterviewPrep/tree/master/1217-relative-sort-array) |
 | [1502-construct-k-palindrome-strings](https://github.com/TheLegion007/InterviewPrep/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/TheLegion007/InterviewPrep/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/TheLegion007/InterviewPrep/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/TheLegion007/InterviewPrep/tree/master/0169-majority-element) |
 | [0954-maximum-sum-circular-subarray](https://github.com/TheLegion007/InterviewPrep/tree/master/0954-maximum-sum-circular-subarray) |
 ## Database
 |  |
