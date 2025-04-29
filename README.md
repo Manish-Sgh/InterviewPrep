@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/TheLegion007/InterviewPrep/tree/master/1524-string-matching-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/TheLegion007/InterviewPrep/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TheLegion007/InterviewPrep/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/TheLegion007/InterviewPrep/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2358-number-of-ways-to-split-array](https://github.com/TheLegion007/InterviewPrep/tree/master/2358-number-of-ways-to-split-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/TheLegion007/InterviewPrep/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/TheLegion007/InterviewPrep/tree/master/2691-count-vowel-strings-in-ranges) |
