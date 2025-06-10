@@ -1,5 +1,7 @@
 class Solution {
 public:
+    // TC - 0(N)
+    // SC - 0(N)
     int findDuplicate(vector<int>& nums) {
         int n = nums.size();
         unordered_map<int, int> mp;
