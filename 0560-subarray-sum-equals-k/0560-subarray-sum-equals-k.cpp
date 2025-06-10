@@ -1,5 +1,7 @@
 class Solution {
 public:
+//Time Complexity --> O(n ^ 2)
+//Space Complexity --> O(1) 
     int subarraySum(vector<int>& nums, int k) {
         int count = 0;
         for (int i = 0; i < nums.size(); i++) {
