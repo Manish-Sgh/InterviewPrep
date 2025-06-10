@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/TheLegion007/InterviewPrep/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/TheLegion007/InterviewPrep/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/TheLegion007/InterviewPrep/tree/master/0287-find-the-duplicate-number) |
+| [0560-subarray-sum-equals-k](https://github.com/TheLegion007/InterviewPrep/tree/master/0560-subarray-sum-equals-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/TheLegion007/InterviewPrep/tree/master/0954-maximum-sum-circular-subarray) |
 | [1217-relative-sort-array](https://github.com/TheLegion007/InterviewPrep/tree/master/1217-relative-sort-array) |
 | [1524-string-matching-in-an-array](https://github.com/TheLegion007/InterviewPrep/tree/master/1524-string-matching-in-an-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/TheLegion007/InterviewPrep/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/TheLegion007/InterviewPrep/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/TheLegion007/InterviewPrep/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/TheLegion007/InterviewPrep/tree/master/0560-subarray-sum-equals-k) |
 | [0807-custom-sort-string](https://github.com/TheLegion007/InterviewPrep/tree/master/0807-custom-sort-string) |
 | [1217-relative-sort-array](https://github.com/TheLegion007/InterviewPrep/tree/master/1217-relative-sort-array) |
 | [1502-construct-k-palindrome-strings](https://github.com/TheLegion007/InterviewPrep/tree/master/1502-construct-k-palindrome-strings) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/TheLegion007/InterviewPrep/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/TheLegion007/InterviewPrep/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/TheLegion007/InterviewPrep/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TheLegion007/InterviewPrep/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/TheLegion007/InterviewPrep/tree/master/2059-unique-length-3-palindromic-subsequences) |
