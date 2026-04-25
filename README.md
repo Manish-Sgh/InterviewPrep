@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/TheLegion007/InterviewPrep/tree/master/0169-majority-element) |
 | [1217-relative-sort-array](https://github.com/TheLegion007/InterviewPrep/tree/master/1217-relative-sort-array) |
 | [1502-construct-k-palindrome-strings](https://github.com/TheLegion007/InterviewPrep/tree/master/1502-construct-k-palindrome-strings) |
+| [2833-furthest-point-from-origin](https://github.com/TheLegion007/InterviewPrep/tree/master/2833-furthest-point-from-origin) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/TheLegion007/InterviewPrep/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/TheLegion007/InterviewPrep/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TheLegion007/InterviewPrep/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/TheLegion007/InterviewPrep/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/TheLegion007/InterviewPrep/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2833-furthest-point-from-origin](https://github.com/TheLegion007/InterviewPrep/tree/master/2833-furthest-point-from-origin) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/TheLegion007/InterviewPrep/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/TheLegion007/InterviewPrep/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Stack
