@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/TheLegion007/InterviewPrep/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/TheLegion007/InterviewPrep/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/TheLegion007/InterviewPrep/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/TheLegion007/InterviewPrep/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/TheLegion007/InterviewPrep/tree/master/0560-subarray-sum-equals-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/TheLegion007/InterviewPrep/tree/master/0954-maximum-sum-circular-subarray) |
 | [1217-relative-sort-array](https://github.com/TheLegion007/InterviewPrep/tree/master/1217-relative-sort-array) |
