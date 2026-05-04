@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/TheLegion007/InterviewPrep/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/TheLegion007/InterviewPrep/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/TheLegion007/InterviewPrep/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/TheLegion007/InterviewPrep/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/TheLegion007/InterviewPrep/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/TheLegion007/InterviewPrep/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/TheLegion007/InterviewPrep/tree/master/0560-subarray-sum-equals-k) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/TheLegion007/InterviewPrep/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/TheLegion007/InterviewPrep/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/TheLegion007/InterviewPrep/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/TheLegion007/InterviewPrep/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/TheLegion007/InterviewPrep/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/TheLegion007/InterviewPrep/tree/master/0344-reverse-string) |
 ## Brainteaser
